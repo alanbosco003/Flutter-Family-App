@@ -59,8 +59,8 @@ class _UpdateState extends State<Update> {
                   },
                   decoration: const InputDecoration(
                     icon: const Icon(Icons.phone),
-                    hintText: 'Enter a phone number',
-                    labelText: 'Phone',
+                    hintText: 'Enter  a phone number',
+                    labelText: 'Phone ',
                   ),
                 ),
                 TextFormField(
